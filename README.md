@@ -3,3 +3,5 @@
 ### a triangular number, neither a triangular number or square number, or both a triangular 
 ### and square number 
 
+<img src= "https://github.com/JeffGoodrich9791/Number Shapes/blob/master/Number_Shapes.png" />
+
